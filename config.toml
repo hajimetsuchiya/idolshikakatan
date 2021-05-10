@@ -4,6 +4,6 @@ title = "My New Hugo Site"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
 publishDir ="docs"
-theme = "ananke"
+theme = "hugo-artists-theme"
 [taxonomies]
 tag = "tags"
